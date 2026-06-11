@@ -3,7 +3,6 @@
 <p align="center">
   <strong>Memory from what agents do, not just what they say.</strong>
 </p>
-
 <p align="center">
   <i>Memori plugs into the software and infrastructure you already use. It is LLM, datastore and framework agnostic and seamlessly integrates into the architecture you've already designed.</i>
 </p>
